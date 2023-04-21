@@ -1,0 +1,19 @@
+{
+    "name": "composer/myf",
+    "description": "mine-framework",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/",
+            "MF\\":"vendor/MF/"
+        }
+    },
+    "authors": [
+        {
+            "name": "marcos ventura",
+            "email": "marcosventura.dev@gmail.com"
+        }
+    ],
+    "require": {
+        
+    }
+}
